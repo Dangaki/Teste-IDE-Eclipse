@@ -14,6 +14,7 @@ public class Gato {
 		super();
 		this.nome = nome;
 		this.cor = cor;
+		this.cor = cor;
 		this.idade = idade;
 	}
 
